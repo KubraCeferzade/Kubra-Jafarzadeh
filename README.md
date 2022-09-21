@@ -5,7 +5,8 @@
 <img align="right" alt="koding" width="400" src="https://data.whicdn.com/images/271624292/original.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kubraceferzade&label=Profile%20views&color=0e75b6&style=flat" alt="kubraceferzade" /> </p>
 
-- 📫 How to reach me **kubraceferzade30@gmail.com**
+- 📫 How to reach me 
+- **kubraceferzade30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kubraceferzade&show_icons=true&locale=en&layout=compact" alt="kubraceferzade" /></p>
 
-<p>&nbsp;<img  align="right" src="https://github-readme-stats.vercel.app/api?username=kubraceferzade&show_icons=true&locale=en" alt="kubraceferzade" /></p>
+<p>&nbsp;<img  align="left" src="https://github-readme-stats.vercel.app/api?username=kubraceferzade&show_icons=true&locale=en" alt="kubraceferzade" /></p>
 
 <p><img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kubraceferzade&" alt="kubraceferzade" /></p>
